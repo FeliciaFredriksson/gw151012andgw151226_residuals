@@ -1,19 +1,11 @@
 # Investigating the residuals from gravitational wave event GW151012 and GW151226
 The following script is based upon the work done by Nielsen, A. B., Nitz, A. H., Capano, C. D. & Brown, D. A. (2018), ‘Investigatingthe noise residuals around the gravitational wave event GW150914’. <br>
-The notebook has been downloaded twice. Each notebook has been changed to work for one other event from LIGOs first observational run, GW151012 and GW151226. With the purpose to investigate the correlations between the two LIGO detectors. 
-
-The notebooks are done as part of a bachelor project done by **Felicia A. Fredriksson, Uppsala University**. The thesis will be published shortly onto Diva with the title: **_Investigating residuals from gravitational wave events, GW151012 and GW151226_.**. <br>
-
-
+The notebook has been changed to work for the event GW151226. With the purpose to investigate the correlations between the two LIGO detectors. The script is done in combination of a paper as the bachelor theisis of **Felicia A. Fredriksson, Uppsala University**. <br>
 
 ## Purpose of thesis ##
 To further study correlations between the detectors this thesis performe the same analysis done for GW150914 but for GW151012 and GW151226. <br>
-The effects from changing the bandpass filter and using different windows of data in the Pearson's correlation coefficents calculations are investigated as well. 
-In addition to that these parameters were changed in the purpose to modifie the calulation better for each seperate event. What was used to change the upper bandpass limit and the window of data was the ratios of the total masses of each seperate investigated event compaired to the first detetcted signal, GW150914.
-
-For analysis and conclusion read further in the paper: _Investigating residuals from gravitational wave events, GW151012 and GW151226_
-
-The following text is the original README.md from the original work for GW150914, for their work: https://github.com/gwastro/gw150914_investigation.
+The effects from changing the bandpass filter and using different windows in the Pearson's correlation coefficents calculations. In addition to that these parameters were changed by a factor proportional to the ration of the systems masses.<br>
+The following text is the original text from the original work for GW150914.
 *** 
 
 # Investigating the noise residuals around the gravitational wave event GW150914
