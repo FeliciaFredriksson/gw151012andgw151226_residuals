@@ -1,4 +1,3 @@
-# gw151012andgw151226_residuals
 # Investigating the residuals from gravitational wave event GW151012 and GW151226
 The following script is based upon the work done by Nielsen, A. B., Nitz, A. H., Capano, C. D. & Brown, D. A. (2018), ‘Investigatingthe noise residuals around the gravitational wave event GW150914’. <br>
 The notebook has been downloaded twice. Each notebook has been changed to work for one other event from LIGOs first observational run, GW151012 and GW151226. With the purpose to investigate the correlations between the two LIGO detectors. 
